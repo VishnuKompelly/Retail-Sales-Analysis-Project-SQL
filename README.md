@@ -248,13 +248,13 @@ This project demonstrates how SQL can be used for **data analytics in retail**. 
 1.	Install PostgreSQL from [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 2.	Create a database
 3.	Load the dataset into a database.
-4.	Execute the provided SQL queries to generate insights.
+4.	Execute the provided SQL queries to generate insights. 
 
 
 ## 📁 Project Structure
 ```
-├── analysis_sql.sql   # Contains all SQL queries
 ├── README.md          # Project documentation
+├── analysis_sql.sql   # Contains all SQL queries
 └── retail_sales_data.csv  
 ```
 
