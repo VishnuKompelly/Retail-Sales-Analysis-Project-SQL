@@ -240,9 +240,9 @@ GROUP BY shift
 This project demonstrates how SQL can be used for **data analytics in retail**. The insights gained help businesses make informed decisions on **inventory**, **customer targeting**, and **sales optimization**.
 
 ## 🛠️ Technologies Used
-•	SQL (Structured Query Language)
-•	PostgreSQL / postgreSQL Server
-•	pgAdmin 4 (for executing queries)
+- SQL (Structured Query Language)
+- PostgreSQL / postgreSQL Server
+- pgAdmin 4 (for executing queries)
 
 ## 📌 How to Run the Queries
 1.	Install PostgreSQL from [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
